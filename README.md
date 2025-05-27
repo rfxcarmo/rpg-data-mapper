@@ -57,7 +57,3 @@ src/
 │   └── resources/
 └── test/
 ```
-
-## 👨‍💻 Author
-
-Generated in collaboration with [ChatGPT + user].
